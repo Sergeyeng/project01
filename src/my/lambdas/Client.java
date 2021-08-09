@@ -44,6 +44,7 @@ public class Client {
         data.add(3);
 
         // just comment
+        // just comment 2
 //        List<Integer> results = icm.squares(data);
 
 /*        for(int x:results){
