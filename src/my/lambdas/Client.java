@@ -43,6 +43,7 @@ public class Client {
         data.add(2);
         data.add(3);
 
+        // just comment
 //        List<Integer> results = icm.squares(data);
 
 /*        for(int x:results){
